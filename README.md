@@ -16,6 +16,16 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="./snake.svg">
+</p>
+
+
+
 ![](https://visitcount.itsvg.in/api?id=shiwamshahare&icon=7&color=3)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
