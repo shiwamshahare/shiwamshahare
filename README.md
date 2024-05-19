@@ -26,6 +26,25 @@
 
 ---
 
+## My Contributions 🐍
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./snake_dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="./snake.svg"
+  />
+</picture>
+
+<br />
+
 ### Thanks for Visiting my GitHub Profile!
 
 ---
@@ -33,12 +52,6 @@
 <p align="center">
 <img src="./snake.svg">
 </p>
-
-<br>
-
-### ![](https://visitcount.itsvg.in/api?id=shiwamshahare&icon=7&color=3)
-
-<br>
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
