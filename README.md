@@ -17,8 +17,11 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=shiwamshahare&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shiwamshahare&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiwamshahare&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shiwamshahare&theme=shades-of-purple&ring=EB47E5&fire=F9FF34&currStreakNum=F9FF34&dates=5AEAE9CB&sideNums=FF4DF8&sideLabels=EBEBEB&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiwamshahare&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shiwamshahare&limit=3&theme=shades-of-purple&combine_all_yearly_contributions=true)<br/>
 
 ### ✍️ Random Dev Quote
 
